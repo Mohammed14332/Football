@@ -1,0 +1,41 @@
+body {
+  background-color: rgba(12, 12, 117, 0.945);
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(150, 16, 16, 0.897);
+  box-shadow: 0px 3px 5px rgb(0, 0, 0.24);
+}
+
+.title {
+  margin-left: 20px;
+  font-size: 30px;
+  color: rgb(224, 214, 214);
+}
+
+.klick {
+  display: flex;
+  list-style-type: none;
+  font-size: 18px;
+}
+
+.klick li {
+  margin-right: 10px;
+  color: rgb(224, 214, 214);
+}
+
+img {
+  width: 400px;
+  position: relative;
+  top: 30px;
+}
+
+p {
+  position: relative;
+  top: 25px;
+  font-size: 23px;
+  color: rgb(224, 214, 214);
+}
