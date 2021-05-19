@@ -2,6 +2,12 @@ body {
   background-color: rgb(231, 92, 41);
 }
 
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .leagues {
   margin-right: 20px;
   font-size: 30px;
