@@ -7,3 +7,10 @@ body {
   font-size: 30px;
   color: rgb(27, 233, 212);
 }
+
+p {
+  position: relative;
+  top: 25px;
+  font-size: 23px;
+  color: rgb(27, 233, 212);
+}
