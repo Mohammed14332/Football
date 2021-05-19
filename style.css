@@ -41,4 +41,5 @@ p {
   font-size: 23px;
   color: rgb(224, 214, 214);
   line-height: 1.3em;
+  grid-template-columns: repeat(3, auto);
 }
