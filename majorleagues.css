@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(235, 53, 235);
+  background-color: black;
 }
 
 .leagues {
   margin-left: 20px;
   font-size: 30px;
-  color: rgb(42, 228, 209);
+  color: gold;
 }
