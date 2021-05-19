@@ -40,3 +40,8 @@ p {
   font-size: 23px;
   color: rgb(224, 214, 214);
 }
+
+.leagues {
+  margin-left: 20px;
+  font-size: 30px;
+}
