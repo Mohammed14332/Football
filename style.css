@@ -14,6 +14,7 @@ nav {
   margin-left: 20px;
   font-size: 30px;
   color: rgb(224, 214, 214);
+  padding: 1.5em;
 }
 
 .klick {
@@ -39,9 +40,4 @@ p {
   top: 25px;
   font-size: 23px;
   color: rgb(224, 214, 214);
-}
-
-@media only screen and (min-width: 1501px) html, body {
-  margin-left: 5%;
-  margin-right: 5%;
 }
