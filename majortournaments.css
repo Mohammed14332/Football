@@ -10,3 +10,10 @@ nav {
   background-color: rgb(148, 7, 113);
   box-shadow: 0px 3px 5px rgb(0, 0, 0.24);
 }
+
+.tournaments {
+  margin-right: 20px;
+  font-size: 30px;
+  color: rgb(126, 53, 4);
+  padding: 0.5em;
+}
