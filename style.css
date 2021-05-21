@@ -29,6 +29,7 @@ nav {
 .klick li {
   margin-right: 10px;
   color: rgb(224, 214, 214);
+  font-weight: bold;
 }
 
 img {
