@@ -23,3 +23,11 @@ h1 {
   font-size: 27px;
   color: rgb(50, 173, 71);
 }
+
+p {
+  position: relative;
+  top: 25px;
+  font-size: 23px;
+  color: rgb(50, 173, 71);
+  line-height: 1.3em;
+}
