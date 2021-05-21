@@ -35,4 +35,7 @@ p {
 
 img {
   width: 400px;
+  position: relative;
+  top: 30px;
+  border-radius: 20px;
 }
