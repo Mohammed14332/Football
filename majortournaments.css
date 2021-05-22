@@ -20,9 +20,15 @@ nav {
 }
 
 h1 {
-  font-size: 27px;
+  font-size: 32px;
   color: rgb(50, 173, 71);
   top: 25px;
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 27px;
+  color: rgb(50, 173, 71);
 }
 
 p {
