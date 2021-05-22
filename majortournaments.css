@@ -42,4 +42,8 @@ img {
 
 .group {
   padding: 1em;
+  width: 400px;
+  position: relative;
+  top: 30px;
+  border-radius: 20px;
 }
