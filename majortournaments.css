@@ -22,6 +22,7 @@ nav {
 h1 {
   font-size: 27px;
   color: rgb(50, 173, 71);
+  top: 25px;
 }
 
 p {
@@ -39,9 +40,4 @@ img {
   top: 30px;
   border-radius: 20px;
   margin-right: 25px;
-}
-
-.champions {
-  font-size: 25px;
-  top: 50px;
 }
