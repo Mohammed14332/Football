@@ -40,3 +40,8 @@ img {
   border-radius: 20px;
   margin-right: 25px;
 }
+
+h1 {
+  font-size: 34px;
+  color: rgb(50, 173, 71);
+}
