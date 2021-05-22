@@ -26,3 +26,12 @@ img {
   border-radius: 20px;
   margin-right: 25px;
 }
+
+p {
+  position: relative;
+  top: 25px;
+  font-size: 23px;
+  color: rgb(248, 247, 247);
+  line-height: 1.3em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
