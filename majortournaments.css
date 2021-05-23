@@ -17,11 +17,13 @@ nav {
   color: rgb(50, 173, 71);
   padding: 0.5em;
   font-weight: bold;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 h2 {
   font-size: 27px;
   color: rgb(50, 173, 71);
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 p {
@@ -47,6 +49,7 @@ h1 {
   position: relative;
   margin-top: 62px;
   margin-bottom: -10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 iframe {
