@@ -13,7 +13,7 @@ nav {
 
 .tournaments {
   margin-right: 20px;
-  font-size: 30px;
+  font-size: 34px;
   color: rgb(50, 173, 71);
   padding: 0.5em;
   font-weight: bold;
@@ -21,7 +21,7 @@ nav {
 }
 
 h2 {
-  font-size: 27px;
+  font-size: 26px;
   color: rgb(50, 173, 71);
   font-family: Georgia, "Times New Roman", Times, serif;
 }
@@ -44,7 +44,7 @@ img {
 }
 
 h1 {
-  font-size: 34px;
+  font-size: 32px;
   color: rgb(50, 173, 71);
   position: relative;
   margin-top: 62px;

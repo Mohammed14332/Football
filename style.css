@@ -13,7 +13,7 @@ nav {
 
 .title {
   margin-right: 25px;
-  font-size: 30px;
+  font-size: 33px;
   color: rgb(224, 214, 214);
   padding: 0.5em;
   font-weight: bold;
@@ -23,7 +23,7 @@ nav {
 .klick {
   display: flex;
   list-style-type: none;
-  font-size: 18px;
+  font-size: 20px;
   padding: 0.5em;
 }
 
